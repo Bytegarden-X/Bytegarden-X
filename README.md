@@ -34,7 +34,7 @@ Currently exploring **Android Development**, **C++**, **Next.js**, and **AI-powe
 ---
 
 ## 🔗 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/abcd1234)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mMPjPMP)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytegarden)
 
 ---
