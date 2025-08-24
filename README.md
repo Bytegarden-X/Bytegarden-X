@@ -36,7 +36,7 @@ Currently exploring **Android Development**, **C++**, **Next.js**, and **AI-powe
 ## 🔗 Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9mMPjPMP)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bytegarden)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hud484132@gmail.com)  
 ---
 
 ✨ _“Every line of code is a seed. Plant it, nurture it, and let it grow.”_
